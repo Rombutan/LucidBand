@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LSM303AGRTR
+#
+DEF LSM303AGRTR U 0 40 Y Y 1 L N
+F0 "U" -602 522 50 H V L BNN
+F1 "LSM303AGRTR" -602 -594 50 H V L BNN
+F2 "LGA12R50P_200X200X100" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Ultra-compact high-performance e-compass 3D accelerometer and 3D magnetometer module" 0 0 50 H I L BNN "DESCRIPTION"
+F5 "1.79 USD" 0 0 50 H I L BNN "PRICE"
+F6 "LGA-12 STMicroelectronics" 0 0 50 H I L BNN "PACKAGE"
+F7 "STMicroelectronics" 0 0 50 H I L BNN "MANUFACTURER"
+F8 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+F9 "LSM303AGRTR" 0 0 50 H I L BNN "MP"
+DRAW
+S -600 -500 600 500 0 0 10 f
+X SCL/SPC 1 -700 300 100 R 40 40 0 0 B C
+X CS_XL 2 -700 100 100 R 40 40 0 0 I 
+X CS_MAG 3 -700 200 100 R 40 40 0 0 I 
+X SDA/SDI/SDO 4 -700 400 100 R 40 40 0 0 B 
+X C1 5 -700 -200 100 R 40 40 0 0 P 
+X GND 6 700 -400 100 L 40 40 0 0 W 
+X GND 8 700 -400 100 L 40 40 0 0 W 
+X INT_MAG/DRDY 7 700 -100 100 L 40 40 0 0 O 
+X VDD 9 700 400 100 L 40 40 0 0 W 
+X VDD_IO 10 700 300 100 L 40 40 0 0 W 
+X INT_2_XL 11 700 100 100 L 40 40 0 0 O 
+X INT_1_XL 12 700 0 100 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
