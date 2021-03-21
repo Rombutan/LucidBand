@@ -1,0 +1,15 @@
+-gesture control
+  -sign language
+    -connected to phone for translation
+-Built in LoRa
+  -peer to peer communication
+-0.91 oled
+-Wifi/Bluetooth
+-peltier module
+-lcb's in band
+-haptic feedback
+-microphone
+-pulse oximiter
+-barometer
+-GPS
+-SD card
