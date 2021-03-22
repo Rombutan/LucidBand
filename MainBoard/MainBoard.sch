@@ -60,17 +60,17 @@ $EndComp
 $Comp
 L Sensor_Motion:LSM9DS1 U?
 U 1 1 605F11C5
-P 7350 1400
-F 0 "U?" H 7350 511 50  0000 C CNN
-F 1 "LSM9DS1" H 7350 420 50  0000 C CNN
-F 2 "Package_LGA:LGA-24L_3x3.5mm_P0.43mm" H 8850 2150 50  0001 C CNN
-F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" H 7350 1500 50  0001 C CNN
-	1    7350 1400
+P 7100 1500
+F 0 "U?" H 7100 611 50  0000 C CNN
+F 1 "LSM9DS1" H 7100 520 50  0000 C CNN
+F 2 "Package_LGA:LGA-24L_3x3.5mm_P0.43mm" H 8600 2250 50  0001 C CNN
+F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" H 7100 1600 50  0001 C CNN
+	1    7100 1500
 	1    0    0    -1  
 $EndComp
-Text GLabel 6650 1000 0    50   Input ~ 0
+Text GLabel 6400 1100 0    50   Input ~ 0
 SCL
-Text GLabel 6650 1100 0    50   Input ~ 0
+Text GLabel 6400 1200 0    50   Input ~ 0
 SDA
 Text GLabel 1350 5950 0    50   Input ~ 0
 SDA
@@ -116,12 +116,12 @@ $EndComp
 $Comp
 L Connector:Micro_SD_Card J?
 U 1 1 605FDC7D
-P 10250 1600
-F 0 "J?" H 10200 2317 50  0000 C CNN
-F 1 "Micro_SD_Card" H 10200 2226 50  0000 C CNN
-F 2 "" H 11400 1900 50  0001 C CNN
-F 3 "http://katalog.we-online.de/em/datasheet/693072010801.pdf" H 10250 1600 50  0001 C CNN
-	1    10250 1600
+P 10300 2450
+F 0 "J?" H 10250 3167 50  0000 C CNN
+F 1 "Micro_SD_Card" H 10250 3076 50  0000 C CNN
+F 2 "" H 11450 2750 50  0001 C CNN
+F 3 "http://katalog.we-online.de/em/datasheet/693072010801.pdf" H 10300 2450 50  0001 C CNN
+	1    10300 2450
 	1    0    0    -1  
 $EndComp
 Text GLabel 8500 5750 0    50   Input ~ 0
@@ -153,34 +153,34 @@ $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 605FFED7
-P 7250 2200
-F 0 "#PWR?" H 7250 1950 50  0001 C CNN
-F 1 "GND" H 7255 2027 50  0000 C CNN
-F 2 "" H 7250 2200 50  0001 C CNN
-F 3 "" H 7250 2200 50  0001 C CNN
-	1    7250 2200
-	1    0    0    -1  
+P 7000 2300
+F 0 "#PWR?" H 7000 2050 50  0001 C CNN
+F 1 "GND" H 7005 2127 50  0000 C CNN
+F 2 "" H 7000 2300 50  0001 C CNN
+F 3 "" H 7000 2300 50  0001 C CNN
+	1    7000 2300
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 60600088
-P 7450 2200
-F 0 "#PWR?" H 7450 1950 50  0001 C CNN
-F 1 "GND" H 7455 2027 50  0000 C CNN
-F 2 "" H 7450 2200 50  0001 C CNN
-F 3 "" H 7450 2200 50  0001 C CNN
-	1    7450 2200
-	1    0    0    -1  
+P 7200 2300
+F 0 "#PWR?" H 7200 2050 50  0001 C CNN
+F 1 "GND" H 7205 2127 50  0000 C CNN
+F 2 "" H 7200 2300 50  0001 C CNN
+F 3 "" H 7200 2300 50  0001 C CNN
+	1    7200 2300
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 60600A3A
-P 11050 2200
-F 0 "#PWR?" H 11050 1950 50  0001 C CNN
-F 1 "GND" H 11055 2027 50  0000 C CNN
-F 2 "" H 11050 2200 50  0001 C CNN
-F 3 "" H 11050 2200 50  0001 C CNN
-	1    11050 2200
+P 11100 3050
+F 0 "#PWR?" H 11100 2800 50  0001 C CNN
+F 1 "GND" H 11105 2877 50  0000 C CNN
+F 2 "" H 11100 3050 50  0001 C CNN
+F 3 "" H 11100 3050 50  0001 C CNN
+	1    11100 3050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -458,4 +458,23 @@ Wire Wire Line
 	9700 6250 9700 5750
 Wire Wire Line
 	9700 5750 9500 5750
+$Comp
+L power:+3.3V #PWR?
+U 1 1 60630579
+P 7400 700
+F 0 "#PWR?" H 7400 550 50  0001 C CNN
+F 1 "+3.3V" H 7415 873 50  0000 C CNN
+F 2 "" H 7400 700 50  0001 C CNN
+F 3 "" H 7400 700 50  0001 C CNN
+	1    7400 700 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 700  7400 700 
+Connection ~ 7200 700 
+Wire Wire Line
+	7200 700  7100 700 
+Connection ~ 7400 700 
+Wire Wire Line
+	7400 700  7200 700 
 $EndSCHEMATC
