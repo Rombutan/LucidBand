@@ -1,0 +1,45 @@
+!SESSION 2021-03-21 21:07:28.173 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/lucag/Documents/GitHub/LucidBand/Software -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-03-21 21:07:34.562
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-03-21 21:07:34.664
+!MESSAGE Log4j initialized with config file /home/lucag/Documents/GitHub/LucidBand/Software/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-03-21 21:07:37.380
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-03-21 21:07:37.744
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-21 21:11:48.701
+!MESSAGE Indexed 'V1' (22 sources, 81 headers) in 2.94 sec: 4,272 declarations; 22,700 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0074%)
+!SESSION 2021-03-23 14:59:30.337 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-03-23 14:59:38.136
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-03-23 14:59:38.200
+!MESSAGE Log4j initialized with config file /home/lucag/Documents/GitHub/LucidBand/Software/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-03-23 14:59:41.448
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-03-23 14:59:41.849
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-23 15:10:42.331
+!MESSAGE Indexed 'V1_CM4' (20 sources, 87 headers) in 2.49 sec: 6,406 declarations; 26,661 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.006%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-23 15:10:43.823
+!MESSAGE Indexed 'V1_CM0PLUS' (20 sources, 87 headers) in 1.49 sec: 5,856 declarations; 25,827 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0063%)
