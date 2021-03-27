@@ -2,4 +2,5 @@
   (lib (name LSM303AGRTR)(type Legacy)(uri ${KIPRJMOD}/libs/LSM303AGRTR.lib)(options "")(descr ""))
   (lib (name TESEO-LIV3F)(type Legacy)(uri ${KIPRJMOD}/libs/TESEO-LIV3F.lib)(options "")(descr ""))
   (lib (name BLUENRG)(type Legacy)(uri ${KIPRJMOD}/libs/BLUENRG.lib)(options "")(descr ""))
+  (lib (name MAX2036)(type Legacy)(uri ${KIPRJMOD}/libs/MAX2036.lib)(options "")(descr ""))
 )
