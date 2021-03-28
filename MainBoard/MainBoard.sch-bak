@@ -2762,8 +2762,6 @@ $EndComp
 Wire Wire Line
 	9200 5950 9200 6000
 Connection ~ 9200 6000
-Wire Wire Line
-	9200 6000 9200 7550
 $Comp
 L power:GND #PWR?
 U 1 1 61E003BA
@@ -2821,7 +2819,9 @@ F 3 "" H 9000 7650 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9000 7550 9200 7550
-Connection ~ 9200 7550
+Wire Wire Line
+	9200 6000 9200 7550
 Wire Wire Line
 	9200 7550 9200 7950
+Connection ~ 9200 7550
 $EndSCHEMATC
