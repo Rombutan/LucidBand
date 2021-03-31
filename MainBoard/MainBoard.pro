@@ -1,4 +1,4 @@
-update=Tue 30 Mar 2021 09:20:45 PM PDT
+update=Wed 31 Mar 2021 02:08:20 PM PDT
 version=1
 last_client=kicad
 [general]
@@ -17,7 +17,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=
 CopperLayerCount=4
-BoardThickness=0.8
+BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
