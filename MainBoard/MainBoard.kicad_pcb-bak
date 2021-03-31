@@ -2,7 +2,7 @@
 
   (general
     (thickness 0.8)
-    (drawings 11)
+    (drawings 18)
     (tracks 403)
     (zones 0)
     (modules 78)
@@ -3537,9 +3537,16 @@
     )
   )
 
+  (gr_line (start 135 25) (end 135 23) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 137.5 25) (end 135 25) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 137.5 23) (end 137.5 25) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 129.5 23) (end 129.5 19) (layer Dwgs.User) (width 0.15) (tstamp 60644BF8))
+  (gr_line (start 140 23) (end 129.5 23) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 140 19) (end 140 23) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 129.5 19) (end 140 19) (layer Dwgs.User) (width 0.15))
   (gr_line (start 133.75 17.5) (end 133.75 52.5) (layer Dwgs.User) (width 0.15))
   (gr_line (start 140 25) (end 120 25) (layer Dwgs.User) (width 0.15) (tstamp 60667C78))
-  (gr_line (start 139.25 45) (end 139.25 25) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 140 45) (end 140 25) (layer Dwgs.User) (width 0.15))
   (gr_line (start 120 45) (end 140 45) (layer Dwgs.User) (width 0.15))
   (gr_line (start 120 25) (end 120 45) (layer Dwgs.User) (width 0.15))
   (gr_line (start 116.25 35) (end 151.25 35) (layer Dwgs.User) (width 0.15))
