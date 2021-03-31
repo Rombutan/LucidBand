@@ -11291,3 +11291,5 @@
 2021-03-30 16:57:59,650 [INFO] ADCParametersView:97 -                Rank 1 : false
 2021-03-30 16:57:59,667 [INFO] ADCParametersView:97 -                Rank 1 : false
 2021-03-30 16:58:35,680 [INFO] DmaTabbedPanel:192 - Cannot restore the selected Tab for DMA
+2021-03-30 19:59:32,844 [INFO] DmaTabbedPanel:192 - Cannot restore the selected Tab for DMA
+2021-03-30 19:59:32,911 [INFO] DmaTabbedPanel:192 - Cannot restore the selected Tab for DMA
