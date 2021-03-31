@@ -1,4 +1,4 @@
-19112248600677485
+19107399779244485
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56209,27 +56209,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MainBoard
-LGA12R50P_200X200X100
-
-
-0
-12
-12
-MainBoard
-SON110P970X1010X230-18N
-<b>TESEO-LIV3F</b><br>
-
-0
-18
-18
-MainBoard
-STM32WL55CCU7
-
-
-0
-49
-49
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -83055,12 +83034,12 @@ libs
 4
 4
 libs
-BLUENRG
+DLF162500LT
 
 
 0
-49
-49
+4
+4
 libs
 LGA12R50P_200X200X100
 
@@ -83083,7 +83062,7 @@ SON110P970X1010X230-18N
 18
 18
 libs
-STM32WL55CCU7
+STM32WB30CEU5A
 
 
 0

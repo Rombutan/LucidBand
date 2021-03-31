@@ -3,4 +3,6 @@
   (lib (name TESEO-LIV3F)(type Legacy)(uri ${KIPRJMOD}/libs/TESEO-LIV3F.lib)(options "")(descr ""))
   (lib (name BLUENRG)(type Legacy)(uri ${KIPRJMOD}/libs/BLUENRG.lib)(options "")(descr ""))
   (lib (name MAX2036)(type Legacy)(uri ${KIPRJMOD}/libs/MAX2036.lib)(options "")(descr ""))
+  (lib (name STM32WB30CEU5A)(type Legacy)(uri ${KIPRJMOD}/libs/STM32WB30CEU5A.lib)(options "")(descr ""))
+  (lib (name DLF162500LT)(type Legacy)(uri ${KIPRJMOD}/libs/DLF162500LT.lib)(options "")(descr ""))
 )
