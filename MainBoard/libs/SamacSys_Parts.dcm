@@ -6,4 +6,13 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+<<<<<<< HEAD
+=======
+$CMP NORA-B106-00B
+D DUAL CORE BLE 5.2 MODULE, PCBANT
+K
+F https://www.u-blox.com/en/docs/UBX-20027119
+$ENDCMP
+#
+>>>>>>> ef08c4ee151a189506e26b9eb1cc00de7c3125c2
 #End Doc Library
