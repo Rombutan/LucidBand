@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NORA-B106-00B
+D DUAL CORE BLE 5.2 MODULE, PCBANT
+K
+F https://www.u-blox.com/en/docs/UBX-20027119
+$ENDCMP
+#
+#End Doc Library
