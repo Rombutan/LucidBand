@@ -5,4 +5,5 @@
   (lib (name MAX2036)(type Legacy)(uri ${KIPRJMOD}/libs/MAX2036.lib)(options "")(descr ""))
   (lib (name STM32WB30CEU5A)(type Legacy)(uri ${KIPRJMOD}/libs/STM32WB30CEU5A.lib)(options "")(descr ""))
   (lib (name DLF162500LT)(type Legacy)(uri ${KIPRJMOD}/libs/DLF162500LT.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/libs/SamacSys_Parts.lib)(options "")(descr ""))
 )
