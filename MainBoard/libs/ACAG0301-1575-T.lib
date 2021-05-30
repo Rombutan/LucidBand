@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ACAG0301-1575-T
+#
+DEF ACAG0301-1575-T AE 0 40 Y N 1 L N
+F0 "AE" 57 58 50 H V L BNN
+F1 "ACAG0301-1575-T" 55 -75 50 H V L BNN
+F2 "ANT-ACAG0301-1575-T" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "Abracon" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "2018" 0 0 50 H I L BNN "PARTREV"
+DRAW
+P 2 0 0 10 45 165 0 75 N
+P 2 0 0 10 0 75 -45 165 N
+P 2 0 0 10 0 165 0 76 N
+P 2 0 0 10 0 76 0 75 N
+P 2 0 0 6 -40 -100 -60 -160 N
+P 2 0 0 6 -14 -100 -34 -160 N
+P 2 0 0 6 14 -100 -8 -160 N
+P 2 0 0 6 14 -100 40 -100 N
+P 2 0 0 6 40 -100 20 -160 N
+P 2 0 0 6 -6 -100 0 -100 N
+P 2 0 0 6 0 -100 14 -100 N
+P 2 0 0 6 0 76 0 -100 N
+X ~ 2 -100 0 100 R 40 40 0 0 I 
+X ~ 1 -100 -100 100 R 40 40 0 0 W 
+X ~ 3 -100 -100 100 R 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
