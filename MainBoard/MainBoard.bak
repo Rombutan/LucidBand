@@ -1713,17 +1713,6 @@ SCL
 Text GLabel 1050 1350 0    50   Input ~ 0
 SDA
 $Comp
-L Device:C_Small C22
-U 1 1 60FDC515
-P 2600 1650
-F 0 "C22" H 2692 1696 50  0000 L CNN
-F 1 "100nF" H 2692 1605 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric" H 2600 1650 50  0001 C CNN
-F 3 "~" H 2600 1650 50  0001 C CNN
-	1    2600 1650
-	0    1    1    0   
-$EndComp
-$Comp
 L power:GND #PWR0128
 U 1 1 60FDC51F
 P 2750 1650
@@ -1745,8 +1734,6 @@ F 3 "" H 1050 1550 50  0001 C CNN
 	1    1050 1550
 	0    -1   -1   0   
 $EndComp
-Connection ~ 2500 1650
-Connection ~ 2700 1650
 Connection ~ 2750 1650
 Connection ~ 5650 4100
 Wire Wire Line
@@ -1890,26 +1877,11 @@ Text GLabel 14350 7750 0    50   Input ~ 0
 SCL
 Text GLabel 14350 7650 0    50   Input ~ 0
 SDA
-Connection ~ 2450 1650
-Connection ~ 1750 2050
-Connection ~ 1750 850 
-Connection ~ 1050 1450
 Connection ~ 1850 2050
 Wire Wire Line
 	1850 2050 1750 2050
 Wire Wire Line
 	1750 850  1850 850 
-$Comp
-L Sensor_Motion:LSM303C U8
-U 1 1 60FDC4FD
-P 1750 1450
-F 0 "U8" H 1750 2231 50  0000 C CNN
-F 1 "LSM303C" H 1750 2140 50  0000 C CNN
-F 2 "Package_LGA:LGA-12_2x2mm_P0.5mm" H 1350 750 50  0001 L CNN
-F 3 "www.st.com/resource/en/datasheet/lsm303c.pdf" H 1850 800 50  0001 C CNN
-	1    1750 1450
-	1    0    0    -1  
-$EndComp
 $Comp
 L Sensor_Motion:LSM303C U3
 U 1 1 60A4616C
