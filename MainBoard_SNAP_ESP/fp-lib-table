@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name libs)(type KiCad)(uri ${KIPRJMOD}/libs)(options "")(descr ""))
-  (lib (name MainBoard)(type KiCad)(uri ${KIPRJMOD}/libs/MainBoard.pretty)(options "")(descr ""))
-)
