@@ -595,7 +595,7 @@
   )
 
   (module Sensor_Distance:ST_VL53L1x (layer F.Cu) (tedit 5DEE2EAC) (tstamp 60B46BE0)
-    (at 121.5 49.5 180)
+    (at 123.75 26.25 180)
     (descr "VL53L1x distance sensor")
     (tags "VL53L1CXV0FY1 VL53L1x")
     (path /60F183FA)
