@@ -2102,10 +2102,32 @@ L MainBoard-rescue:R_Small_US-Device R16
 U 1 1 60B8D5FB
 P 4200 6150
 F 0 "R16" H 4268 6196 50  0000 L CNN
-F 1 "100k" H 4268 6105 50  0000 L CNN
+F 1 "JUST IN CASE" H 4268 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 4200 6150 50  0001 C CNN
 F 3 "~" H 4200 6150 50  0001 C CNN
 	1    4200 6150
 	0    1    1    0   
+$EndComp
+$Comp
+L MainBoard-rescue:TestPoint-Connector TP?
+U 1 1 60BAC43F
+P 6600 6300
+F 0 "TP?" V 6795 6372 50  0000 C CNN
+F 1 "NFC1" V 6704 6372 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 6800 6300 50  0001 C CNN
+F 3 "~" H 6800 6300 50  0001 C CNN
+	1    6600 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MainBoard-rescue:TestPoint-Connector TP?
+U 1 1 60BB7090
+P 6600 6400
+F 0 "TP?" V 6795 6472 50  0000 C CNN
+F 1 "NFC2" V 6704 6472 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 6800 6400 50  0001 C CNN
+F 3 "~" H 6800 6400 50  0001 C CNN
+	1    6600 6400
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC

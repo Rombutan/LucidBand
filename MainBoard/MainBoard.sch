@@ -2108,4 +2108,26 @@ F 3 "~" H 4200 6150 50  0001 C CNN
 	1    4200 6150
 	0    1    1    0   
 $EndComp
+$Comp
+L MainBoard-rescue:TestPoint-Connector TP8
+U 1 1 60BAC43F
+P 6600 6300
+F 0 "TP8" V 6795 6372 50  0000 C CNN
+F 1 "NFC1" V 6704 6372 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 6800 6300 50  0001 C CNN
+F 3 "~" H 6800 6300 50  0001 C CNN
+	1    6600 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MainBoard-rescue:TestPoint-Connector TP9
+U 1 1 60BB7090
+P 6600 6400
+F 0 "TP9" V 6795 6472 50  0000 C CNN
+F 1 "NFC2" V 6704 6472 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 6800 6400 50  0001 C CNN
+F 3 "~" H 6800 6400 50  0001 C CNN
+	1    6600 6400
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
