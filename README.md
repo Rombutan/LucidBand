@@ -5,4 +5,4 @@ An ultra low power smartwatch. BLE, AES-256b encryption, epaper.
 ![Layout](https://github.com/Rombutan/LucidBand/blob/master/Layout.png?raw=true)
 Up to date layout and Schematics are availiable as PDF's with every commit. (but check anyway)
 
-Intended for use with a waveshare 1.04" epaper display.
+Intended for use with a waveshare 1.04" epaper display, and [this](https://www.digikey.com/catalog/en/partgroup/mdbt50q/83053) processor. 
