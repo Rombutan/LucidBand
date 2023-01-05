@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/espressif/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "BMI270")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/BMI270")(options "")(descr ""))
+  (lib (name "SPV1040")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/SPV1040")(options "")(descr ""))
+)
