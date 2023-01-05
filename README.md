@@ -1,8 +1,16 @@
-# LucidBand
-An ultra low power smartwatch. BLE, AES-256b encryption, epaper.
+# LucidBand! - The really thin, no-charge smartwatch.
+## Philosophy
+I quite like the idea of having lots of easily accessible data about myself. Fitness and biological data can be a big help in organizing and optimizing one's life, and I think everyone should have access to that data about *themselves*. 
+Current smartwatches rely on a bluetooth connection for almost all of their functionality. I think that's a big flaw. To me, the whole point of a wearable is going where your phone can't.
 
-![3D board](https://github.com/Rombutan/LucidBand/blob/master/3D.png?raw=true)
-![Layout](https://github.com/Rombutan/LucidBand/blob/master/Layout.png?raw=true)
-Up to date layout and Schematics are availiable as PDF's with every commit. (but check anyway)
+## Technology
+LucidBand has solar cells and tiny batteries and the processor in the wristband!
+The only thing in the face is the display - everything else is on a flexible pcb built into the wristband. This lets the face be really thin - hopefully around 7mm - and also allows operation without the display (think: ankle band).
+The band will be cast out of a semi-flexible clear epoxy or something.
 
-Intended for use with a waveshare 1.04" epaper display, and [this](https://www.digikey.com/catalog/en/partgroup/mdbt50q/83053) processor. 
+## Chips
+MCU:			ESP32-C3-WROOM-02-N4
+ENERGY:	SPV1040T
+GYRO:		BMI270
+SOLAR:		ONP2.4-15X94
+LED:			WS2811
