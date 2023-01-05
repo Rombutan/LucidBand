@@ -9,8 +9,8 @@ The only thing in the face is the display - everything else is on a flexible pcb
 The band will be cast out of a semi-flexible clear epoxy or something.
 
 ## Chips
-*. MCU:			ESP32-C3-WROOM-02-N4
-*. ENERGY:	SPV1040T
-*. GYRO:		BMI270
-*. SOLAR:		ONP2.4-15X94
-*. LED:			WS2811
+* MCU:			ESP32-C3-WROOM-02-N4
+* ENERGY:	SPV1040T
+* GYRO:		BMI270
+* SOLAR:		ONP2.4-15X94
+* LED:			WS2811
