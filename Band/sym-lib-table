@@ -2,4 +2,5 @@
   (lib (name "Espressif")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/espressif/libraries/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "BMI270")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/BMI270/BMI270.kicad_sym")(options "")(descr ""))
   (lib (name "SPV1050TTR")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/SPV1050/SPV1050TTR.kicad_sym")(options "")(descr ""))
+  (lib (name "S-1318")(type "KiCad")(uri "/home/rombutan/Documents/LucidBand/kicad-libs/S-1318.kicad_sym")(options "")(descr ""))
 )
