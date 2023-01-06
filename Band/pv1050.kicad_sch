@@ -1040,7 +1040,7 @@
     (property "Value" "Lbst" (id 1) (at 138.43 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Inductor_SMD:L_1806_4516Metric" (id 2) (at 137.16 62.23 0)
+    (property "Footprint" "Inductor_SMD:L_1210_3225Metric" (id 2) (at 137.16 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.16 62.23 0)

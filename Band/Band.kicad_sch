@@ -1654,7 +1654,7 @@
       (reference "C4") (unit 1) (value "Cfltr") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/95cc114b-a7ee-454c-8f99-c2dfc5e44b9b/ed4c51ab-d2e4-4983-b128-1286bf148c5b"
-      (reference "L1") (unit 1) (value "Lbst") (footprint "Inductor_SMD:L_1806_4516Metric")
+      (reference "L1") (unit 1) (value "Lbst") (footprint "Inductor_SMD:L_1210_3225Metric")
     )
     (path "/254f74fd-03d2-42d9-a8d4-491e7cf5c9f8"
       (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
