@@ -13,6 +13,8 @@ The band will be cast out of a semi-flexible clear epoxy or something.
 * ENERGY:	  BQ25504
 * GYRO:		  BMI270
 * SOLAR:		ONP2.4-15X94
+BOM cost for 5 boards with shipping to California turned up to be around 150$. I'm guessing parts for only 1 board would be around 100$ with shipping.
+
 
 ## Screenshots
 ![oopsie picture no workey](https://github.com/Rombutan/LucidBand/blob/master/brd.png)
